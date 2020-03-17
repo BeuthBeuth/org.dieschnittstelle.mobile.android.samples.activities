@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\a\\activities\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\a\\activities\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\a\\activities\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\a\\activities\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\a\\activities\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\a\\activities\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,6,5,3,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "127,222,176,59,275",
+                        "endColumns": "47,45,44,66,59",
+                        "endOffsets": "170,263,216,121,330"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,149,194,261",
+                        "endColumns": "47,45,44,66,59",
+                        "endOffsets": "98,144,189,256,316"
+                    }
+                },
+                {
+                    "source": "C:\\a\\activities\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "321,612",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "607,767"
+                    }
+                }
+            ]
+        }
+    ]
+}
