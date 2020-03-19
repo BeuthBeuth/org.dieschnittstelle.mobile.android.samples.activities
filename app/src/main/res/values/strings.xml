@@ -6,6 +6,6 @@
     <string name="caller_name">Anna</string>
     <string name="callee_name">Beate</string>
     
-    <string name="new_message_hint">Neue Nachricht</string>
+    <string name="new_message_hint">Neue Nachricht?</string>
         
 </resources>
